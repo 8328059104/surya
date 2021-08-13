@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Shadmaan's Personal Site</title>
+</head>
+
+<body>
+  <img src="images/circle-cropped.png" alt="Shadmaan Profile Picture">
+  <h1>v.siva surya manikantah</h1>
+  <p>
+    <em>A <strong>Computer Science</strong> Undergrad.</em>
+  </p>
+  <p>
+    Hi! I am v,siva surya manikantah, a 3rd year Computer Science Undergrad at Amity University. I am very passionate about learning computer science.
+    I am learning Web Development and Programming. I like solving complex problems that require computational
+    needs. I also like to practice calesthenics, Tai-Chi, and play video games in my free time.
+  </p>
+  <hr noshade>
+  <h3>Education:</h3>
+  <ul>
+    <li>B.Tech, CSE, Amity University (2019-23)</li>
+    <li>Schooling:
+      <ul>
+        <li>Class 12 (85%) - Dr.kkr, tenali</li>
+        <li>Class 10 (10 CGPA)- fiitjee junior, tenali</li>
+      </ul>
+    </li>
+  </ul>
+  <h3>My Hobbies:</h3>
+  <ol>
+    <li>Martial Arts</li>
+    <li>Gaming</li>
+    <li>Calesthenics</li>
+    <li>Watching Movies and TV shows</li>
+  </ol>
+
+</body>
+
+</html>
